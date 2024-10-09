@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34728.176
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILivraria", "APILivraria.csproj", "{B7F9233B-B66E-47E3-8679-7821E833545B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F9233B-B66E-47E3-8679-7821E833545B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F9233B-B66E-47E3-8679-7821E833545B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F9233B-B66E-47E3-8679-7821E833545B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F9233B-B66E-47E3-8679-7821E833545B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E8DCB55-7374-4E43-A948-069DE2645074}
+	EndGlobalSection
+EndGlobal
